@@ -1,6 +1,6 @@
 # vite-project
 # Steps on what I did in the terminal to make it work:
-###  I did npm init vite@latest
+###  I did:  npm init vite@latest
 ### Once done I ran: 
 1. cd vite-project
 2. I added the html and javascript code in the vite-project
@@ -20,3 +20,4 @@
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
+# vite-project
